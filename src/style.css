@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Inter,sans-serif;
+}
+
+nav{
+    background-color: #F55A5A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav--img{
+    padding: 10px;
+  
+}
+.nav--title{
+    color: white;
+    font-weight: 500;
+}
